@@ -1,0 +1,7 @@
+{
+    "jupyter.themeMatplotlibPlots": true,
+    "jupyter.allowUnauthorizedRemoteConnection": true,
+    "jupyter.interactiveWindow.textEditor.magicCommandsAsComments": true,
+    "jupyter.interactiveWindow.textEditor.normalizeSelection": true,
+    "jupyter.interactiveWindow.textEditor.executeSelection": true
+}
